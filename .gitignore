@@ -1,0 +1,13 @@
+# Local demo artifacts
+.tmp/
+.server.pid
+.chrome.pid
+*.log
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
